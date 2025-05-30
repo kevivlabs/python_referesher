@@ -1,4 +1,4 @@
-# Python Interview Syntax & Data Structures Refresher
+# Python  Syntax & Data Structures Refresher
 
 ## 1. Basics
 
